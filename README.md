@@ -1,4 +1,4 @@
-# statslibrary
+# statistics-graphs
 包含主成分分析，聚类分析、层次聚类、雷达图等统计分析算法与图像绘制的实现。
 
 需要使用某个算法模块，只需要包含对应模块文件夹下的对应头文件即可使用，各个模块的使用说明文档也请参见对应的文件夹下的readme文档。statslibrary中所实现的各个分析算法请参见如下的目录。
@@ -20,4 +20,5 @@
 #### 13. Hierarchical Clustering：层次聚类
 #### 14. Radar Map: 雷达图
 
-
+# Contributers
+This profile is modified at [Happyxianyueveryday/statslibrary](https://github.com/Happyxianyueveryday/statslibrary)

@@ -19,6 +19,6 @@
 #### 12. FacAnaly：因子分析模块
 #### 13. Hierarchical Clustering：层次聚类
 #### 14. Radar Map: 雷达图
-
+#### 15.significance testing：SPSS进行显著性检验
 # Contributers
 This profile is modified on [Happyxianyueveryday/statslibrary](https://github.com/Happyxianyueveryday/statslibrary)

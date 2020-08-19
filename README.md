@@ -21,6 +21,7 @@
 #### 14. Radar Map: 雷达图
 #### 15.significance testing：SPSS进行显著性检验
 #### 16.SEM:结构方程模型
+#### 17. line chart: 平滑/双折线图
 
 # Contributers
 This profile is modified on [Happyxianyueveryday/statslibrary](https://github.com/Happyxianyueveryday/statslibrary)
